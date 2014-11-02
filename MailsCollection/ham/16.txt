@@ -1,0 +1,3 @@
+.I 1
+.S
+yeah I am ready.  I may not be here because Jar Jar has plane tickets to Germany for me.  
